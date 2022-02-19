@@ -1,5 +1,5 @@
 # linear-binary-search
-An implementation of the Linear Search and Binary Search algorithms in C++. The presentation compares the two from the results of the output of the program.
+An implementation of the Linear Search and Binary Search algorithms in C++ for the module CMP210. The presentation compares the two from the results of the output of the program.
  
 Grade: B
 
