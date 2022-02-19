@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(98,62): warning C4244:  '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(98,62): warning C4244:         with
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(98,62): warning C4244:         [
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(98,62): warning C4244:             _Rep=__int64
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(98,62): warning C4244:         ]
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(161): message :  see reference to function template instantiation 'void run_linear<unsigned int[100]>(std::list<int,std::allocator<_Ty>>,T (&),const int,unsigned int,std::string)' being compiled
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(161): message :         with
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(161): message :         [
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(161): message :             _Ty=int,
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(161): message :             T=unsigned int [100]
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(161): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\chrono(595): message :  see reference to class template instantiation 'std::chrono::duration<double,std::ratio<1,1>>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\chrono(172): message :  see reference to class template instantiation 'std::chrono::duration<__int64,std::nano>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\chrono(574): message :  see reference to class template instantiation 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>' being compiled
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(126,62): warning C4244:  '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(126,62): warning C4244:         with
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(126,62): warning C4244:         [
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(126,62): warning C4244:             _Rep=__int64
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(126,62): warning C4244:         ]
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(163): message :  see reference to function template instantiation 'void run_binary<unsigned int[100]>(std::list<int,std::allocator<_Ty>>,T (&),unsigned int,std::string)' being compiled
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(163): message :         with
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(163): message :         [
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(163): message :             _Ty=int,
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(163): message :             T=unsigned int [100]
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(163): message :         ]
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:REF' specification
+  Searching.vcxproj -> C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Debug\Searching.exe

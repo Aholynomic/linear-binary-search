@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>150</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>Function uses '44428' bytes of stack:  exceeds /analyze:stacksize '16388'.  Consider moving some data to heap.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>150</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

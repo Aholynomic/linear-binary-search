@@ -1,0 +1,33 @@
+﻿  cl : Command line warning D9025 : overriding '/analyze-' with '/analyze:stacksize16388'
+  main.cpp
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(101,62): warning C4244:  '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(101,62): warning C4244:         with
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(101,62): warning C4244:         [
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(101,62): warning C4244:             _Rep=__int64
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(101,62): warning C4244:         ]
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(175): message :  see reference to function template instantiation 'void run_linear<unsigned int[100]>(std::list<int,std::allocator<_Ty>>,T (&),const int,unsigned int,std::string)' being compiled
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(175): message :         with
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(175): message :         [
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(175): message :             _Ty=int,
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(175): message :             T=unsigned int [100]
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(175): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\chrono(595): message :  see reference to class template instantiation 'std::chrono::duration<double,std::ratio<1,1>>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\chrono(172): message :  see reference to class template instantiation 'std::chrono::duration<__int64,std::nano>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\chrono(574): message :  see reference to class template instantiation 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>' being compiled
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(134,62): warning C4244:  '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(134,62): warning C4244:         with
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(134,62): warning C4244:         [
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(134,62): warning C4244:             _Rep=__int64
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(134,62): warning C4244:         ]
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(178): message :  see reference to function template instantiation 'void run_binary<unsigned int[100]>(std::list<int,std::allocator<_Ty>>,T (&),unsigned int,std::string)' being compiled
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(178): message :         with
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(178): message :         [
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(178): message :             _Ty=int,
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(178): message :             T=unsigned int [100]
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(178): message :         ]
+C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(178): message : C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Searching\main.cpp(150) : warning C6262: Function uses '44428' bytes of stack:  exceeds /analyze:stacksize '16388'.  Consider moving some data to heap.
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 277 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Searching.vcxproj -> C:\Users\ethan\OneDrive\Desktop\data structures\Searching\Release\Searching.exe
